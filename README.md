@@ -22,12 +22,11 @@ yarn hardhat deploy --network goerli
 
 ```
 cd ..
-git clone https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc
-cd graph-nft-marketplace-fcc
+git clone https://github.com/PatrickAlphaC/graph-nft-marketplace
+cd graph-nft-marketplace-main
 yarn
 ```
 
-Follow the instructions of the [README](https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc/blob/main/README.md) of that repo. 
 
 Then, make a `.env` file and place your temporary query URL into it as `NEXT_PUBLIC_SUBGRAPH_URL`.
 
