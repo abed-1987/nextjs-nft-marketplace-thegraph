@@ -22,7 +22,7 @@ yarn hardhat deploy --network goerli
 
 ```
 cd ..
-git clone https://github.com/PatrickAlphaC/graph-nft-marketplace
+git clone https://github.com/abed-1987/graph-nft-marketplace.git
 cd graph-nft-marketplace-main
 yarn
 ```
